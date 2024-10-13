@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋 I'm Sarup Bormon</h1>
 <h3 align="center">A Passionate Saftware Engineer From India</h3>
-<image align="right"alt="coding"width="400"src="https://img.freepik.com/premium-photo/cartoon-3d-character-developer-working-laptop-web-app-development-frontend-deployment_1295366-45224.jpg"
+<image align="right"alt="coding"width="400"src="https://miro.medium.com/v2/resize:fit:1400/1*kIacWWXjfYBFXqIXhIuCXQ.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarupbormon&label=Profile%20views&color=0e75b6&style=flat" alt="sarupbormon" /> </p>
                                                                                                                                                  
