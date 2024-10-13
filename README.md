@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/af4630ab-829e-4e12-95e1-702cc306e21a)
+![image](https://github.com/user-attachments/assets/19e3320e-a20d-484b-97b1-beacbe2b1af7)
 <h1 align="center">Hi 👋, I'm Sarup Bormon</h1>
 <h3 align="center">A Passionate Saftware Engineer From India</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
