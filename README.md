@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sarupbormon" target="blank"><img src="https://img.shields.io/twitter/follow/sarupbormon?logo=twitter&style=for-the-badge" alt="sarupbormon" /></a> </p>
 
-- 🌱 I’m currently learning **Leetcode,Hacherrank,Codecademy,Codechef,Edx,Coursera.x,**
+- 🌱 I’m currently learning **Leetcode,Hacherrank,Codecademy,Codechef,Edx,Coursera,Internshala**
 
 - 💬 Ask me about **react and message**
 
